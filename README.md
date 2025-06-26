@@ -13,21 +13,21 @@ Descripción: El siguiente trabajo muestra el como se hizo una biblioteca de lib
 6.  SQL Server
 
 ## Instrucciones para descargar y ejecutar
-🔹 1.  Descargar la repo.
-🔹 2. Selecciona la carpeta que se desea descomprimir.
-🔹 3. Instalar Visual Basic 6.
-🔹 4. Teniendo instalado Visual, entrar e irnos a la opción de Archivo, seguida Abrir archivo y seleccionar la carpeta que se descomprimió (Hub_Lectura)
-🔹 5. Para ingresar la conexión a la Base de Datos, entra al Módulo CONEXIONBD Y coloca los ajustes necesarios como servidor,usuario y contraseña.
-🔹 6. Correla y disfruta de tu Hub de Lectura.
+1.  Descargar la repo.
+2. Selecciona la carpeta que se desea descomprimir.
+3. Instalar Visual Basic 6.
+4. Teniendo instalado Visual, entrar e irnos a la opción de Archivo, seguida Abrir archivo y seleccionar la carpeta que se descomprimió (Hub_Lectura)
+5. Para ingresar la conexión a la Base de Datos, entra al Módulo CONEXIONBD Y coloca los ajustes necesarios como servidor,usuario y contraseña.
+6. Correla y disfruta de tu Hub de Lectura.
 
 ## Descripción del cómo se hizo:
-🔹 1. Al tomar sesiones con el Callenger fueron de ayuda para comrender la funcionalidad de Visual Basic 6 y conexión con BD.
-🔹 2. Se realizó una base de datos con algunas tablas para poder ocupar en el proyecto (La primera imagen muestra la Diagraga Entidad-Relación) y se agregaron datos.
-🔹 3. En VB6 se hizo la conexión y se realizaron pruebas para comprobar que estuviera enlazando los datos.
-🔹 4. Se comenzó a realizar el Form principal, agregando algunos componentes y botones.
-🔹 5. Se agregaron botones con funciones como Leído, Por leer, Descartado, Favoritos, etc.
-🔹 6. Los datos agregados en Generos Favoritos se comprobaron que estuvieran guardandose en la BD con los usuarios correspondientes.
-🔹 7. Se comprobó que todo funcionara de manera satisfactoria, solo faltaron algunos detalles.
+1. Al tomar sesiones con el Callenger fueron de ayuda para comrender la funcionalidad de Visual Basic 6 y conexión con BD.
+2. Se realizó una base de datos con algunas tablas para poder ocupar en el proyecto (La primera imagen muestra la Diagraga Entidad-Relación) y se agregaron datos.
+3. En VB6 se hizo la conexión y se realizaron pruebas para comprobar que estuviera enlazando los datos.
+4. Se comenzó a realizar el Form principal, agregando algunos componentes y botones.
+5. Se agregaron botones con funciones como Leído, Por leer, Descartado, Favoritos, etc.
+6. Los datos agregados en Generos Favoritos se comprobaron que estuvieran guardandose en la BD con los usuarios correspondientes.
+7. Se comprobó que todo funcionara de manera satisfactoria, solo faltaron algunos detalles.
 
 ## Diagrama Entidad-Relación
 
@@ -64,8 +64,8 @@ Descripción: El siguiente trabajo muestra el como se hizo una biblioteca de lib
 
 
 ## 🐞 Problemas conocidos:
-🔹 1.  Escasa información de Visual Basic 6.
-🔹 2. Problemas con el duplicar componentes o elementos, si afecta al código.
+1.  Escasa información de Visual Basic 6.
+2. Problemas con el duplicar componentes o elementos, si afecta al código.
 
 ## 💡 Retrospectiva:
 
