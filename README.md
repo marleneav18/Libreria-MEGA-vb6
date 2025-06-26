@@ -5,12 +5,12 @@
 Descripción: El siguiente trabajo muestra el como se hizo una biblioteca de libros utilizando Visual Basic 6 con diferentes funciones haciendo una conexión con una base de datos creada en SQL Server.
 
 ## Objetivos:
-🔹  Crear una base de datos utilizando SQL Server y enlazarla con la interfaz
-🔹  Hacer una interfaz gráfica funcional en Windows utilizando Visual Basic 6.
-🔹  Hacer uso de herramientas de VB y que exista funcionamiento en los botones con tareas específicas.
-🔹  Guardar los datos de los libros y actividades que se hagan en la interfaz en la base de datos de SQL Server( como libros leídos, libros por leer, libros descartados, géneros favoritos y recomendaciones)
-🔹  Visual Basic 6
-🔹  SQL Server
+1. Crear una base de datos utilizando SQL Server y enlazarla con la interfaz
+2.  Hacer una interfaz gráfica funcional en Windows utilizando Visual Basic 6.
+3.  Hacer uso de herramientas de VB y que exista funcionamiento en los botones con tareas específicas.
+4.  Guardar los datos de los libros y actividades que se hagan en la interfaz en la base de datos de SQL Server( como libros leídos, libros por leer, libros descartados, géneros favoritos y recomendaciones)
+5.  Visual Basic 6
+6.  SQL Server
 
 ## Instrucciones para descargar y ejecutar
 🔹 Descargar la repo.
